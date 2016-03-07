@@ -1,0 +1,38 @@
+/*your custom CSS here*/
+
+body{
+  padding: 80px;
+  background-color: #000;
+}
+
+.heading{
+  position: fixed;
+  width:100%;
+  top:0;
+  left:0;
+  padding: 0px 20px;
+  background-image: inherit;
+}
+
+.box {
+  padding: 5px;
+}
+
+img {
+  width: 100%;
+}
+
+.box a.read-more {
+  display:block;
+  margin-top: 5px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+}
+
+p{
+  font-size: 14px;
+}
+
+.grid_3{
+  margin-top:20px;
+}

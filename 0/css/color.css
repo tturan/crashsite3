@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: Courier, Arial, serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #fff;
+  background-image:url(http://i.imgur.com/Qd76sGS.jpg);
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.heading {
+  background-color: #fff;
+}
+
+h1{
+    color: #000;
+    font-style: italic;
+}
+
+h1 small {
+  color: #ccc;
+  font-size: .6em;
+}
+
+
+.box a.read-more {
+  text-decoration: underline;
+}
+
+.footer {
+  color: #ccc;
+  font-style: italic;
+}

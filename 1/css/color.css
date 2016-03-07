@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: Courier, Arial, serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #000;
+  background-color: #000;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.heading {
+  background-color: #000;
+}
+
+h1{
+    color: #000;
+    font-style: italic;
+}
+
+h1 small {
+  color: #ccc;
+  font-size: .6em;
+}
+
+.box {
+  background-color: #00f;
+}
+
+.box a.read-more {
+  text-decoration: underline;
+}
+
+.footer {
+  color: #000;
+  font-style: italic;
+}
