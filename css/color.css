@@ -6,13 +6,16 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #000;
-  background-color: #000;
+  background-color: #958d76;
   background-image: url(../img/IMG_4881.jpg);
+  background-position: center 400px;
 }
 
 .heading {
-  background-color: inherit;
-  background-image: url(.../img/heading.jpg);
+  width: 100%;
+  height: 400px;
+  background-image: url(../img/heading.jpg);
+  background-color: #615e5a
 }
 
 .footer {
