@@ -7,6 +7,32 @@ body {
   line-height: 1.5;
   color: #000;
   background-color: #000;
+  background-image: url(../img/IMG_4881.jpg);
+}
+
+.heading {
+  background-color: inherit;
+  background-image: url(.../img/heading.jpg);
+}
+
+.footer {
+  color: #ccc;
+  font-style: italic;
+  background-color: inherit;
+}
+
+.box {
+  background-color: #ccc;
+}
+
+h1{
+    color: #ccc;
+    font-style: italic;
+}
+
+h1 small {
+  color: #ccc;
+  font-size: .6em;
 }
 
 a {
@@ -17,31 +43,4 @@ a {
 a:hover {
   color: #FFF;
   text-decoration: none;
-}
-
-.heading {
-  background-color: #000;
-}
-
-h1{
-    color: #000;
-    font-style: italic;
-}
-
-h1 small {
-  color: #ccc;
-  font-size: .6em;
-}
-
-.box {
-  background-color: #00f;
-}
-
-.box a.read-more {
-  text-decoration: underline;
-}
-
-.footer {
-  color: #000;
-  font-style: italic;
 }

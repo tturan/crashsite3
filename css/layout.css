@@ -1,17 +1,19 @@
 /*your custom CSS here*/
 
 body{
-  padding: 80px;
-  background-color: #000;
+  height: 2000px;
 }
 
 .heading{
-  position: fixed;
   width:100%;
   top:0;
   left:0;
   padding: 0px 20px;
-  background-image: inherit;
+}
+
+.footer{
+  margin-top: 35px;
+  position: fixed;
 }
 
 .box {
@@ -23,17 +25,6 @@ img {
   width: 100%;
 }
 
-.box a.read-more {
-  display:block;
-  margin-top: 5px;
-  padding-top: 10px;
-  border-top: 1px solid #ccc;
-}
-
-p{
+p {
   font-size: 14px;
-}
-
-.footer{
-  margin-top: 35px;
 }
